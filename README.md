@@ -1,1 +1,1 @@
-# github-actions-day2
+# githubci
